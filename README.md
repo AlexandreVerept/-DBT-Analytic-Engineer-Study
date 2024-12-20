@@ -1,6 +1,8 @@
 # DBT-Analytic-Engineer-Study
 My Study guide for DBT Analytics Engineering Certification Exam
 
+I [passed it](https://credentials.getdbt.com/64df623d-4e7f-4895-b877-194b759b1468) with on December 20, 2024 🥳
+
 ## Useful links
 
 - Official DBT certification [here](https://www.getdbt.com/certifications/analytics-engineer-certification-exam?utm_medium=internal&utm_source=blog&utm_campaign=q3-2023_dbt-certification_awareness)
